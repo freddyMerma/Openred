@@ -24,7 +24,7 @@ On **Windows**, download and install the latest **Python 3** version from the of
 ### **2. Clone the Repository**  
 Download the OpenRed project from GitHub:  
 ```bash
-git clone https://github.com/Ibercivis/OpenRed.git
+git clone [https://github.com/freddyMerma/Openred.git](https://github.com/freddyMerma/Openred.git)
 cd OpenRed
 ```
 

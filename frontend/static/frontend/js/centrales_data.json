@@ -1,0 +1,5254 @@
+{
+    "data": [
+        {
+            "id": 4859915,
+            "name": "Almería",
+            "stationNumber": "21317",
+            "lat": 36.835278,
+            "lon": -2.456944,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 20246,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 55.211000000000006,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 193210,
+            "name": "Ponferrada",
+            "stationNumber": "21130",
+            "lat": 42.564136,
+            "lon": -6.600086,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 7260,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 50.262,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6906277,
+            "name": "Benavente",
+            "stationNumber": "21463",
+            "lat": 42.004917,
+            "lon": -5.6796,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 22870,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 76.632,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5423775,
+            "name": "Zamora",
+            "stationNumber": "21413",
+            "lat": 41.509483,
+            "lon": -5.744086,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 20675,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 62.436,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1403403,
+            "name": "Almadén",
+            "stationNumber": "21305",
+            "lat": 38.781586,
+            "lon": -4.828319,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 16913,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 123.709,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4735554,
+            "name": "Castellón",
+            "stationNumber": "21416",
+            "lat": 39.987778,
+            "lon": -0.031944,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 20189,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 57.581,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6906300,
+            "name": "Aranda de Duero",
+            "stationNumber": "21466",
+            "lat": 41.672486,
+            "lon": -3.679267,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 22989,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 71.155,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 783058,
+            "name": "Higueruela",
+            "stationNumber": "21279",
+            "lat": 38.962042,
+            "lon": -1.442725,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 13327,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 70.79599999999999,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9174101,
+            "name": "Fraga",
+            "stationNumber": "21490",
+            "lat": 41.51755,
+            "lon": 0.326817,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 27111,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 48.845,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 969749,
+            "name": "Cáceres",
+            "stationNumber": "21285",
+            "lat": 39.478086,
+            "lon": -6.351844,
+            "timestamp": 1739257800000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 15212,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739257800000,
+                            "value": 61.829,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 257419,
+            "name": "Valladolid",
+            "stationNumber": "21153",
+            "lat": 41.640706,
+            "lon": -4.753558,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 8862,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 68.327,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 262110,
+            "name": "Palma de Mallorca",
+            "stationNumber": "21141",
+            "lat": 39.553136,
+            "lon": 2.625081,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 9299,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 28.738,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9174326,
+            "name": "Mahón",
+            "stationNumber": "21422",
+            "lat": 39.865897,
+            "lon": 4.258592,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 28249,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 23.994,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 969728,
+            "name": "Madroñera",
+            "stationNumber": "21301",
+            "lat": 39.422536,
+            "lon": -5.759678,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14601,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 84.937,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 671664,
+            "name": "Horche",
+            "stationNumber": "21229",
+            "lat": 40.565753,
+            "lon": -3.066417,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 11781,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 55.163999999999994,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6906308,
+            "name": "Tremp",
+            "stationNumber": "21467",
+            "lat": 42.172022,
+            "lon": 0.893331,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 23047,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 40.978,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9174111,
+            "name": "Lleida",
+            "stationNumber": "21491",
+            "lat": 41.630628,
+            "lon": 0.631858,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 27444,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 64.73700000000001,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 143074,
+            "name": "L'Ametlla de Mar",
+            "stationNumber": "21163",
+            "lat": 40.881389,
+            "lon": 0.796778,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 6371,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 40.989,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 671670,
+            "name": "Torija",
+            "stationNumber": "21238",
+            "lat": 40.744664,
+            "lon": -3.029744,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 11955,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 46.18,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 928703,
+            "name": "Ciudad Real",
+            "stationNumber": "21293",
+            "lat": 38.99255,
+            "lon": -3.929378,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14336,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 68.782,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6906293,
+            "name": "Burgos",
+            "stationNumber": "21465",
+            "lat": 42.355581,
+            "lon": -3.692486,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 22812,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 26.362,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4859920,
+            "name": "Melilla",
+            "stationNumber": "21421",
+            "lat": 35.29,
+            "lon": -2.948333,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 20453,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 74.512,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1688884,
+            "name": "Talayuela",
+            "stationNumber": "21306",
+            "lat": 39.9837,
+            "lon": -5.606803,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 16620,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 100.244,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4735513,
+            "name": "Málaga",
+            "stationNumber": "21417",
+            "lat": 36.728611,
+            "lon": -4.430556,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 19833,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 65.11999999999999,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4593018,
+            "name": "Bejar",
+            "stationNumber": "21383",
+            "lat": 40.388611,
+            "lon": -5.751944,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 19540,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 116.243,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 45310,
+            "name": "Madrid CSN",
+            "stationNumber": "21123",
+            "lat": 40.448014,
+            "lon": -3.713792,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 4427,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 81.577,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 969715,
+            "name": "Malpartida de Plasencia",
+            "stationNumber": "21298",
+            "lat": 39.9733,
+            "lon": -6.047608,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14735,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 69.68100000000001,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 239374,
+            "name": "Badajoz",
+            "stationNumber": "21137",
+            "lat": 38.885514,
+            "lon": -7.00935,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 8508,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 55.467000000000006,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 742796,
+            "name": "Alatoz",
+            "stationNumber": "21280",
+            "lat": 39.098628,
+            "lon": -1.365042,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 13225,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 75.964,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4593007,
+            "name": "El Puente del Arzobispo",
+            "stationNumber": "21382",
+            "lat": 39.806111,
+            "lon": -5.171111,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 19586,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 106.34599999999999,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 622772,
+            "name": "Villar de Domingo Garcia",
+            "stationNumber": "21239",
+            "lat": 40.235758,
+            "lon": -2.291706,
+            "timestamp": 1739271000000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 11531,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271000000,
+                            "value": 46.731,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 783083,
+            "name": "Casas-Ibañez",
+            "stationNumber": "21276",
+            "lat": 39.286639,
+            "lon": -1.466344,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 13455,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 46.684000000000005,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7448365,
+            "name": "Maella",
+            "stationNumber": "21378",
+            "lat": 41.124722,
+            "lon": 0.135556,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 24464,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 75.861,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16493442,
+            "name": "Balaguer",
+            "stationNumber": "21307",
+            "lat": 41.787222,
+            "lon": 0.804444,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 29718,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 70.447,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4261075,
+            "name": "Cádiz",
+            "stationNumber": "21384",
+            "lat": 36.522708,
+            "lon": -6.280778,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 18887,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 31.058,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 783106,
+            "name": "Albacete",
+            "stationNumber": "21277",
+            "lat": 38.999822,
+            "lon": -1.858444,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 13690,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 89.904,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5587457,
+            "name": "A Coruña",
+            "stationNumber": "21402",
+            "lat": 43.346528,
+            "lon": -8.414736,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 21214,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 101.77799999999999,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4735535,
+            "name": "Granada",
+            "stationNumber": "21423",
+            "lat": 37.202472,
+            "lon": -3.605353,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 20066,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 65.113,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 928678,
+            "name": "Azuaga",
+            "stationNumber": "21291",
+            "lat": 38.263936,
+            "lon": -5.67615,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14839,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 76.949,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1403388,
+            "name": "El Bonillo",
+            "stationNumber": "21302",
+            "lat": 38.952,
+            "lon": -2.536272,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 16068,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 41.952999999999996,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6942318,
+            "name": "Guardo",
+            "stationNumber": "21468",
+            "lat": 42.788931,
+            "lon": -4.839183,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 23118,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 86.337,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 45328,
+            "name": "Brihuega",
+            "stationNumber": "21126",
+            "lat": 40.762778,
+            "lon": -2.870278,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 4677,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 27.566,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 783091,
+            "name": "Fuentealbilla",
+            "stationNumber": "21272",
+            "lat": 39.2702,
+            "lon": -1.547711,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 13516,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 48.763,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 45757,
+            "name": "Cortes de Pallás",
+            "stationNumber": "21149",
+            "lat": 39.242203,
+            "lon": -0.939128,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 4878,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 39.477,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1688873,
+            "name": "Jarandilla de la Vera",
+            "stationNumber": "21309",
+            "lat": 40.130914,
+            "lon": -5.66295,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 16507,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 120.80000000000001,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4016674,
+            "name": "Águilas",
+            "stationNumber": "21372",
+            "lat": 37.401944,
+            "lon": -1.592222,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 18055,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 50.698,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6942325,
+            "name": "Ripoll",
+            "stationNumber": "21469",
+            "lat": 42.192625,
+            "lon": 2.194972,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 23362,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 77.164,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 969711,
+            "name": "Trujillo",
+            "stationNumber": "21295",
+            "lat": 39.449683,
+            "lon": -5.878958,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14458,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 94.932,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 742775,
+            "name": "Alberic",
+            "stationNumber": "21271",
+            "lat": 39.112519,
+            "lon": -0.523456,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 12740,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 40.224999999999994,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 210480,
+            "name": "Logroño",
+            "stationNumber": "21134",
+            "lat": 42.462514,
+            "lon": -2.461864,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 8077,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 53.28,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 551694,
+            "name": "Priego",
+            "stationNumber": "21230",
+            "lat": 40.448731,
+            "lon": -2.309281,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 10806,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 46.118,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1403398,
+            "name": "Valdepeñas",
+            "stationNumber": "21315",
+            "lat": 38.769506,
+            "lon": -3.386736,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 16190,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 55.455999999999996,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1842781,
+            "name": "Pobla de Massaluca",
+            "stationNumber": "21275",
+            "lat": 41.177283,
+            "lon": 0.353431,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 17307,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 43.001999999999995,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4261093,
+            "name": "Segovia",
+            "stationNumber": "21424",
+            "lat": 40.936222,
+            "lon": -4.112119,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 19189,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 98.18499999999999,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 928698,
+            "name": "Almaraz",
+            "stationNumber": "21292",
+            "lat": 39.818894,
+            "lon": -5.670836,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14272,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 100.502,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 206607,
+            "name": "Juzbado",
+            "stationNumber": "21159",
+            "lat": 41.087592,
+            "lon": -5.890281,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 7609,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 47.523,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 45316,
+            "name": "Murcia",
+            "stationNumber": "21124",
+            "lat": 38.001511,
+            "lon": -1.170772,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 4486,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 43.693999999999996,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 174132,
+            "name": "Cifuentes",
+            "stationNumber": "21162",
+            "lat": 40.781914,
+            "lon": -2.622011,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 6712,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 46.089,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 708252,
+            "name": "La Font de la Figuera",
+            "stationNumber": "21269",
+            "lat": 38.803653,
+            "lon": -0.880231,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 12792,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 62.459,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9174343,
+            "name": "Villalba del Rey",
+            "stationNumber": "21234",
+            "lat": 40.345556,
+            "lon": -2.6375,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 26983,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 49.436,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 45350,
+            "name": "Cofrentes",
+            "stationNumber": "21148",
+            "lat": 39.227885,
+            "lon": -1.064603,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 4811,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 41.001000000000005,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 551679,
+            "name": "Tarancón",
+            "stationNumber": "21241",
+            "lat": 40.004214,
+            "lon": -3.002794,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 10614,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 46.4,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4016657,
+            "name": "Alicante",
+            "stationNumber": "21371",
+            "lat": 38.350947,
+            "lon": -0.484664,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 17915,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 46.796,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 45763,
+            "name": "Casatejada",
+            "stationNumber": "21150",
+            "lat": 39.883664,
+            "lon": -5.682908,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 4941,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 118.325,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 708238,
+            "name": "Valencia",
+            "stationNumber": "21268",
+            "lat": 39.462581,
+            "lon": -0.38875,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 12473,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 50.387,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860969,
+            "name": "Rosell",
+            "stationNumber": "21273",
+            "lat": 40.615833,
+            "lon": 0.220556,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 13821,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 53.467,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 206651,
+            "name": "Santander",
+            "stationNumber": "21133",
+            "lat": 43.490578,
+            "lon": -3.800917,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 7818,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 33.865,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 25063848,
+            "name": "Benicarló",
+            "stationNumber": "21420",
+            "lat": 40.416856,
+            "lon": 0.413767,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 31184,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 48.095,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8601015,
+            "name": "Barcelona",
+            "stationNumber": "21412",
+            "lat": 41.350717,
+            "lon": 2.157486,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 26420,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 51.388999999999996,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 969723,
+            "name": "Valencia de Alcántara",
+            "stationNumber": "21300",
+            "lat": 39.410183,
+            "lon": -7.24665,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14543,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 131.353,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4121085,
+            "name": "Córdoba",
+            "stationNumber": "21296",
+            "lat": 37.885278,
+            "lon": -4.7875,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 18559,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 46.389,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4121062,
+            "name": "Alcalá de Henares",
+            "stationNumber": "21375",
+            "lat": 40.487778,
+            "lon": -3.349444,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 18258,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 60.034,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4593013,
+            "name": "Ciudad Rodrigo",
+            "stationNumber": "21380",
+            "lat": 40.598889,
+            "lon": -6.527778,
+            "timestamp": 1739270400000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 19442,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739270400000,
+                            "value": 104.007,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1688896,
+            "name": "Serradilla",
+            "stationNumber": "21147",
+            "lat": 39.827294,
+            "lon": -6.144081,
+            "timestamp": 1739257800000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 16791,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739257800000,
+                            "value": 91.12,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8428865,
+            "name": "Girona",
+            "stationNumber": "21388",
+            "lat": 41.973603,
+            "lon": 2.826183,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 26114,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 88.15,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4121090,
+            "name": "Aranjuez",
+            "stationNumber": "21318",
+            "lat": 40.052928,
+            "lon": -3.598972,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 18516,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 86.006,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9174091,
+            "name": "Pobla del Cervoles",
+            "stationNumber": "21488",
+            "lat": 41.366172,
+            "lon": 0.913656,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 27537,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 45.214,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4261080,
+            "name": "Villamartín",
+            "stationNumber": "21385",
+            "lat": 36.854314,
+            "lon": -5.652589,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 18965,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 33.63,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4261085,
+            "name": "Osuna",
+            "stationNumber": "21386",
+            "lat": 37.239342,
+            "lon": -5.110833,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 19067,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 40.128,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 143061,
+            "name": "Tortosa",
+            "stationNumber": "21177",
+            "lat": 40.81455,
+            "lon": 0.515894,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 6182,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 46.555,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26810408,
+            "name": "Motril",
+            "stationNumber": "21144",
+            "lat": 36.724444,
+            "lon": -3.528611,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 31524,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 59.478,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 551705,
+            "name": "Beteta",
+            "stationNumber": "21232",
+            "lat": 40.570956,
+            "lon": -2.07565,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 10890,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 48.503,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 174143,
+            "name": "Navalmoral de la Mata",
+            "stationNumber": "21176",
+            "lat": 39.894597,
+            "lon": -5.543792,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 6791,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 130.827,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 969707,
+            "name": "Monroy",
+            "stationNumber": "21294",
+            "lat": 39.638739,
+            "lon": -6.211969,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14403,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 70.354,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6942339,
+            "name": "Tudela",
+            "stationNumber": "21471",
+            "lat": 42.059469,
+            "lon": -1.599667,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 23425,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 53.343,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 204263,
+            "name": "Oviedo",
+            "stationNumber": "21131",
+            "lat": 43.353083,
+            "lon": -5.874106,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 7400,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 40.091,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1688858,
+            "name": "Castañar de Ibor",
+            "stationNumber": "21311",
+            "lat": 39.626031,
+            "lon": -5.417139,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 16245,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 81.58500000000001,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5587466,
+            "name": "Foz",
+            "stationNumber": "21400",
+            "lat": 43.563169,
+            "lon": -7.261542,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 21323,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 65.464,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1688878,
+            "name": "Jaraíz de la Vera",
+            "stationNumber": "21312",
+            "lat": 40.058725,
+            "lon": -5.749658,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 16568,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 138.923,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8072083,
+            "name": "Huesca",
+            "stationNumber": "21390",
+            "lat": 42.127797,
+            "lon": -0.425228,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 25763,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 48.083,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 599718,
+            "name": "Sigüenza",
+            "stationNumber": "21227",
+            "lat": 41.066006,
+            "lon": -2.648925,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 11145,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 48.765,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 239390,
+            "name": "Sevilla",
+            "stationNumber": "21139",
+            "lat": 37.400383,
+            "lon": -6.009656,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 8647,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 34.428,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7949469,
+            "name": "Bilbao",
+            "stationNumber": "21395",
+            "lat": 43.269642,
+            "lon": -2.929786,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 25053,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 43.763000000000005,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1403393,
+            "name": "Deleitosa",
+            "stationNumber": "21316",
+            "lat": 39.474414,
+            "lon": -5.648656,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 16120,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 100.108,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7613810,
+            "name": "León",
+            "stationNumber": "21391",
+            "lat": 42.586372,
+            "lon": -5.570033,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 24980,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 70.742,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6942332,
+            "name": "Llanes",
+            "stationNumber": "21470",
+            "lat": 43.415836,
+            "lon": -4.751211,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 23245,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 32.277,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 969719,
+            "name": "Valdelacasa de Tajo",
+            "stationNumber": "21299",
+            "lat": 39.727556,
+            "lon": -5.282539,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14671,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 81.812,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 181999,
+            "name": "Soria",
+            "stationNumber": "21128",
+            "lat": 41.765353,
+            "lon": -2.478933,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 7097,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 59.07599999999999,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4859956,
+            "name": "Tui",
+            "stationNumber": "21415",
+            "lat": 42.049133,
+            "lon": -8.643606,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 20618,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 123.86500000000001,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6942347,
+            "name": "Cangas de Narcea",
+            "stationNumber": "21472",
+            "lat": 43.183331,
+            "lon": -6.549247,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 23262,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 117.48100000000001,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 742785,
+            "name": "Carlet",
+            "stationNumber": "21244",
+            "lat": 39.221453,
+            "lon": -0.517047,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 12862,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 54.262,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8539520,
+            "name": "Manresa",
+            "stationNumber": "21393",
+            "lat": 41.726561,
+            "lon": 1.815719,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 26323,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 60.914,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5423787,
+            "name": "Verín",
+            "stationNumber": "21414",
+            "lat": 41.939628,
+            "lon": -7.447772,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 20984,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 123.366,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 45322,
+            "name": "Teruel",
+            "stationNumber": "21125",
+            "lat": 40.350394,
+            "lon": -1.1242,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 4618,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 44.426,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 206616,
+            "name": "Salamanca",
+            "stationNumber": "21132",
+            "lat": 40.949583,
+            "lon": -5.669264,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 7714,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 57.347,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 213340,
+            "name": "Cabacés",
+            "stationNumber": "21161",
+            "lat": 41.249325,
+            "lon": 0.735239,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 8368,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 20.625999999999998,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 708210,
+            "name": "Requena",
+            "stationNumber": "21247",
+            "lat": 39.490183,
+            "lon": -1.1069,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 12171,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 74.061,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7949485,
+            "name": "Vitoria",
+            "stationNumber": "21394",
+            "lat": 42.854511,
+            "lon": -2.698344,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 25144,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 48.413,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 282410,
+            "name": "Jaén",
+            "stationNumber": "21143",
+            "lat": 37.777139,
+            "lon": -3.808778,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 9631,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 43.041000000000004,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 213333,
+            "name": "El Cabril",
+            "stationNumber": "21179",
+            "lat": 38.078056,
+            "lon": -5.416944,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 8199,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 97.535,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 364237,
+            "name": "Guadalajara",
+            "stationNumber": "21224",
+            "lat": 40.626425,
+            "lon": -3.16835,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 10160,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 62.329,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9174065,
+            "name": "Ibiza",
+            "stationNumber": "21483",
+            "lat": 38.902844,
+            "lon": 1.407272,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 27832,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 18.878,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 622762,
+            "name": "Molina de Aragón",
+            "stationNumber": "21231",
+            "lat": 40.840486,
+            "lon": -1.873725,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 11383,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 65.338,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 928683,
+            "name": "Riudecols",
+            "stationNumber": "21286",
+            "lat": 41.167228,
+            "lon": 0.978736,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14787,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 92.318,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 969743,
+            "name": "Mérida",
+            "stationNumber": "21290",
+            "lat": 38.914472,
+            "lon": -6.334861,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14929,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 37.653,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 551671,
+            "name": "Sacedón",
+            "stationNumber": "21243",
+            "lat": 40.483303,
+            "lon": -2.734853,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 10539,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 61.269,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 969738,
+            "name": "Reus",
+            "stationNumber": "21288",
+            "lat": 41.161197,
+            "lon": 1.102181,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14949,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 73.362,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 239397,
+            "name": "Toledo",
+            "stationNumber": "21140",
+            "lat": 39.884775,
+            "lon": -4.045275,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 8766,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 82.373,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7448374,
+            "name": "Andorra",
+            "stationNumber": "21392",
+            "lat": 40.976111,
+            "lon": -0.449444,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 24566,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 61.011,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 742761,
+            "name": "Picassent",
+            "stationNumber": "21270",
+            "lat": 39.363817,
+            "lon": -0.465878,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 12528,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 56.23800000000001,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 928669,
+            "name": "Falset",
+            "stationNumber": "21289",
+            "lat": 41.141906,
+            "lon": 0.818583,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14199,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 75.37,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5423782,
+            "name": "Palencia",
+            "stationNumber": "21398",
+            "lat": 42.012153,
+            "lon": -4.524425,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 20765,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 42.861000000000004,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 671701,
+            "name": "Siete Aguas",
+            "stationNumber": "21245",
+            "lat": 39.473225,
+            "lon": -0.915156,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 12107,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 36.884,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860987,
+            "name": "Gandesa",
+            "stationNumber": "21283",
+            "lat": 41.056667,
+            "lon": 0.440833,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 13932,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 41.756,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 969754,
+            "name": "Tarragona",
+            "stationNumber": "21287",
+            "lat": 41.125114,
+            "lon": 1.235106,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 15090,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 26.275,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4735546,
+            "name": "Baza",
+            "stationNumber": "21419",
+            "lat": 37.484722,
+            "lon": -2.769167,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 19961,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 51.195,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 990367,
+            "name": "Pontevedra",
+            "stationNumber": "21152",
+            "lat": 42.438544,
+            "lon": -8.609844,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 15382,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 109.68799999999999,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 433061,
+            "name": "Jadraque",
+            "stationNumber": "21223",
+            "lat": 40.924444,
+            "lon": -2.927392,
+            "timestamp": 1730275200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 10256,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1730275200000,
+                            "value": 50.0,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4261062,
+            "name": "Aracena",
+            "stationNumber": "21387",
+            "lat": 37.889167,
+            "lon": -6.557358,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 18802,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 39.193,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8027870,
+            "name": "Calatayud",
+            "stationNumber": "21389",
+            "lat": 41.33315,
+            "lon": -1.643172,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 25511,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 85.877,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 742780,
+            "name": "Enguera",
+            "stationNumber": "21246",
+            "lat": 38.975586,
+            "lon": -0.689839,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 12641,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 41.613,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1688868,
+            "name": "Villanueva de la Vera",
+            "stationNumber": "21308",
+            "lat": 40.128472,
+            "lon": -5.468114,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 16452,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 169.193,
+                            "color": "#F70D0D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 143090,
+            "name": "Mora del Ebro",
+            "stationNumber": "21154",
+            "lat": 41.088819,
+            "lon": 0.641455,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 6470,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 61.572,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26322898,
+            "name": "Humanes",
+            "stationNumber": "21242",
+            "lat": 40.824167,
+            "lon": -3.160556,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 31306,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 67.941,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 174116,
+            "name": "Trillo",
+            "stationNumber": "21155",
+            "lat": 40.70025,
+            "lon": -2.590514,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 6604,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 63.263,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9174076,
+            "name": "Las Palmas",
+            "stationNumber": "21485",
+            "lat": 28.087425,
+            "lon": -15.416461,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 27964,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 54.288000000000004,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 783099,
+            "name": "Hellín",
+            "stationNumber": "21281",
+            "lat": 38.507628,
+            "lon": -1.703883,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 13600,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 50.583000000000006,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 599713,
+            "name": "Zaorejas",
+            "stationNumber": "21228",
+            "lat": 40.762272,
+            "lon": -2.199867,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 10977,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 40.440999999999995,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 239382,
+            "name": "Huelva",
+            "stationNumber": "21138",
+            "lat": 37.278761,
+            "lon": -6.911667,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 8563,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 37.653,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1842759,
+            "name": "Valls",
+            "stationNumber": "21303",
+            "lat": 41.29295,
+            "lon": 1.260844,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 17143,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 46.784,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9174071,
+            "name": "Arrecife",
+            "stationNumber": "21484",
+            "lat": 28.964672,
+            "lon": -13.549106,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 28038,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 41.183,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 45769,
+            "name": "Navarrés",
+            "stationNumber": "21151",
+            "lat": 39.099206,
+            "lon": -0.694858,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 5002,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 32.814,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9174096,
+            "name": "Calaceite",
+            "stationNumber": "21489",
+            "lat": 41.013953,
+            "lon": 0.186111,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 27204,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 67.456,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 622797,
+            "name": "Campo de Criptana",
+            "stationNumber": "21226",
+            "lat": 39.399989,
+            "lon": -3.131081,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 11865,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 47.553,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 45343,
+            "name": "Ayora",
+            "stationNumber": "21127",
+            "lat": 39.060278,
+            "lon": -1.06,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 4746,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 36.814,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4482930,
+            "name": "Talavera de la Reina",
+            "stationNumber": "21381",
+            "lat": 39.964444,
+            "lon": -4.825,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 19366,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 122.157,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 599738,
+            "name": "Medinaceli",
+            "stationNumber": "21221",
+            "lat": 41.166764,
+            "lon": -2.421439,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 11197,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 59.657000000000004,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7065368,
+            "name": "Ceuta",
+            "stationNumber": "21418",
+            "lat": 35.885278,
+            "lon": -5.329444,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 24222,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 52.572,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 622803,
+            "name": "Pastrana",
+            "stationNumber": "21240",
+            "lat": 40.418758,
+            "lon": -2.923775,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 11717,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 59.476,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4735507,
+            "name": "Marbella",
+            "stationNumber": "21425",
+            "lat": 36.513247,
+            "lon": -4.885989,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 19769,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 50.608,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 282442,
+            "name": "Herrera del Duque",
+            "stationNumber": "21146",
+            "lat": 39.168647,
+            "lon": -5.061914,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 9901,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 78.694,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 708229,
+            "name": "Gandía",
+            "stationNumber": "21248",
+            "lat": 38.974553,
+            "lon": -0.1754,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 12415,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 34.889,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860964,
+            "name": "Sant Carles de la Rápita",
+            "stationNumber": "21284",
+            "lat": 40.619167,
+            "lon": 0.586211,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 14004,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 38.692,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 101172,
+            "name": "Pareja",
+            "stationNumber": "21157",
+            "lat": 40.554969,
+            "lon": -2.649039,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 6243,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 36.851,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 210459,
+            "name": "San Sebastián",
+            "stationNumber": "21136",
+            "lat": 43.306322,
+            "lon": -2.040981,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 7882,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 39.591,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9174081,
+            "name": "Mequinenza",
+            "stationNumber": "21486",
+            "lat": 41.381361,
+            "lon": 0.305675,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 27362,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 56.312,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9174086,
+            "name": "Alcarras",
+            "stationNumber": "21487",
+            "lat": 41.569372,
+            "lon": 0.522819,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 27502,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 52.5,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4016703,
+            "name": "Villacarrillo",
+            "stationNumber": "21374",
+            "lat": 38.1175,
+            "lon": -3.08,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 18200,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 42.35,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4121073,
+            "name": "Collado Villalba",
+            "stationNumber": "21377",
+            "lat": 40.638333,
+            "lon": -4.003611,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 18391,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 76.689,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 174149,
+            "name": "Torrecillas de la Tiesa",
+            "stationNumber": "21158",
+            "lat": 39.563358,
+            "lon": -5.739883,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 6849,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 80.19800000000001,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8072089,
+            "name": "Jaca",
+            "stationNumber": "21396",
+            "lat": 42.577156,
+            "lon": -0.548725,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 25908,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 60.019000000000005,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 282429,
+            "name": "Tarifa",
+            "stationNumber": "21145",
+            "lat": 36.010403,
+            "lon": -5.607091,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 9776,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 55.057,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4261100,
+            "name": "Ávila",
+            "stationNumber": "21493",
+            "lat": 40.657106,
+            "lon": -4.680825,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 19241,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 109.36999999999999,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5423764,
+            "name": "Medina del Campo",
+            "stationNumber": "21411",
+            "lat": 41.312136,
+            "lon": -4.910828,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 20888,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 82.033,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 193215,
+            "name": "Lugo",
+            "stationNumber": "21129",
+            "lat": 43.111044,
+            "lon": -7.4571,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 7333,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 56.522000000000006,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6906286,
+            "name": "Reinosa",
+            "stationNumber": "21464",
+            "lat": 42.994794,
+            "lon": -4.143378,
+            "timestamp": 1721026800000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 22927,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1721026800000,
+                            "value": 63.4,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 210469,
+            "name": "Quintana Martín Galindez",
+            "stationNumber": "21160",
+            "lat": 42.791583,
+            "lon": -3.27415,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 7978,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 31.767999999999997,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4121078,
+            "name": "Cabra",
+            "stationNumber": "21376",
+            "lat": 37.476667,
+            "lon": -4.431111,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 18348,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 48.52,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 262135,
+            "name": "Tenerife",
+            "stationNumber": "21142",
+            "lat": 28.463533,
+            "lon": -16.255903,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 9522,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 47.655,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 742801,
+            "name": "Alpera",
+            "stationNumber": "21274",
+            "lat": 38.957594,
+            "lon": -1.233019,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 13141,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 54.048,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 708218,
+            "name": "Utiel",
+            "stationNumber": "21222",
+            "lat": 39.566444,
+            "lon": -1.208083,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 12284,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 37.522,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 100307,
+            "name": "Torrejon el Rubio",
+            "stationNumber": "21156",
+            "lat": 39.768945,
+            "lon": -6.014167,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 5823,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 47.22,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8027865,
+            "name": "Pamplona",
+            "stationNumber": "21397",
+            "lat": 42.809408,
+            "lon": -1.642847,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 25420,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 42.653000000000006,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 143084,
+            "name": "Cambrils",
+            "stationNumber": "21178",
+            "lat": 41.078854,
+            "lon": 1.049579,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 6342,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 50.803000000000004,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 783063,
+            "name": "Almansa",
+            "stationNumber": "21278",
+            "lat": 38.861914,
+            "lon": -1.088003,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 13077,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 45.398,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4859909,
+            "name": "Buñol",
+            "stationNumber": "21267",
+            "lat": 39.419722,
+            "lon": -0.788611,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 20273,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 42.325,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 213345,
+            "name": "Zaragoza",
+            "stationNumber": "21135",
+            "lat": 41.633453,
+            "lon": -0.882231,
+            "timestamp": 1739272200000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 8298,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739272200000,
+                            "value": 47.821000000000005,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 599746,
+            "name": "Maranchón",
+            "stationNumber": "21233",
+            "lat": 41.049942,
+            "lon": -2.202728,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 11284,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 59.997,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5423770,
+            "name": "Orense",
+            "stationNumber": "21399",
+            "lat": 42.327375,
+            "lon": -7.845233,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 20795,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 130.28699999999998,
+                            "color": "#D7ED11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 622787,
+            "name": "Cuenca ",
+            "stationNumber": "21225",
+            "lat": 40.061256,
+            "lon": -2.141122,
+            "timestamp": 1739271600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 11595,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739271600000,
+                            "value": 38.745000000000005,
+                            "color": "#0F03F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4016689,
+            "name": "La Carolina",
+            "stationNumber": "21370",
+            "lat": 38.276111,
+            "lon": -3.608889,
+            "timestamp": 1739268600000,
+            "status": "ok_ok",
+            "values": [
+                {
+                    "id": 18089,
+                    "name": "Dose Rate H*(10) 10min",
+                    "digits": 2,
+                    "label": null,
+                    "measureComponent": {
+                        "id": 1,
+                        "name": "Dose Rate H*(10)"
+                    },
+                    "unit": "nSv/h",
+                    "measureValues": [
+                        {
+                            "timestamp": 1739268600000,
+                            "value": 77.862,
+                            "color": "#11F228"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "unitExtensions": []
+}

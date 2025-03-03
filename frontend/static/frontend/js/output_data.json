@@ -1,0 +1,3079 @@
+[
+    {
+        "id": 4859915,
+        "device": 5,
+        "user": 5,
+        "latitude": 36.835278,
+        "longitude": -2.456944,
+        "altitude": null,
+        "values": {
+            "radiation": 55.211000000000006
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Almer\u00eda",
+        "weather": null,
+        "measurement_id": "4859915-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 193210,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.564136,
+        "longitude": -6.600086,
+        "altitude": null,
+        "values": {
+            "radiation": 50.262
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Ponferrada",
+        "weather": null,
+        "measurement_id": "193210-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 6906277,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.004917,
+        "longitude": -5.6796,
+        "altitude": null,
+        "values": {
+            "radiation": 76.632
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Benavente",
+        "weather": null,
+        "measurement_id": "6906277-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 5423775,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.509483,
+        "longitude": -5.744086,
+        "altitude": null,
+        "values": {
+            "radiation": 62.436
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Zamora",
+        "weather": null,
+        "measurement_id": "5423775-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 1403403,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.781586,
+        "longitude": -4.828319,
+        "altitude": null,
+        "values": {
+            "radiation": 123.709
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Almad\u00e9n",
+        "weather": null,
+        "measurement_id": "1403403-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4735554,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.987778,
+        "longitude": -0.031944,
+        "altitude": null,
+        "values": {
+            "radiation": 57.581
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Castell\u00f3n",
+        "weather": null,
+        "measurement_id": "4735554-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 6906300,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.672486,
+        "longitude": -3.679267,
+        "altitude": null,
+        "values": {
+            "radiation": 71.155
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Aranda de Duero",
+        "weather": null,
+        "measurement_id": "6906300-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 783058,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.962042,
+        "longitude": -1.442725,
+        "altitude": null,
+        "values": {
+            "radiation": 70.79599999999999
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Higueruela",
+        "weather": null,
+        "measurement_id": "783058-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 9174101,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.51755,
+        "longitude": 0.326817,
+        "altitude": null,
+        "values": {
+            "radiation": 48.845
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Fraga",
+        "weather": null,
+        "measurement_id": "9174101-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 969749,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.478086,
+        "longitude": -6.351844,
+        "altitude": null,
+        "values": {
+            "radiation": 61.829
+        },
+        "dateTime": "2025-02-11T07:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - C\u00e1ceres",
+        "weather": null,
+        "measurement_id": "969749-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 257419,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.640706,
+        "longitude": -4.753558,
+        "altitude": null,
+        "values": {
+            "radiation": 68.327
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Valladolid",
+        "weather": null,
+        "measurement_id": "257419-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 262110,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.553136,
+        "longitude": 2.625081,
+        "altitude": null,
+        "values": {
+            "radiation": 28.738
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Palma de Mallorca",
+        "weather": null,
+        "measurement_id": "262110-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 9174326,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.865897,
+        "longitude": 4.258592,
+        "altitude": null,
+        "values": {
+            "radiation": 23.994
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Mah\u00f3n",
+        "weather": null,
+        "measurement_id": "9174326-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 969728,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.422536,
+        "longitude": -5.759678,
+        "altitude": null,
+        "values": {
+            "radiation": 84.937
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Madro\u00f1era",
+        "weather": null,
+        "measurement_id": "969728-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 671664,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.565753,
+        "longitude": -3.066417,
+        "altitude": null,
+        "values": {
+            "radiation": 55.163999999999994
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Horche",
+        "weather": null,
+        "measurement_id": "671664-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 6906308,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.172022,
+        "longitude": 0.893331,
+        "altitude": null,
+        "values": {
+            "radiation": 40.978
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Tremp",
+        "weather": null,
+        "measurement_id": "6906308-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 9174111,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.630628,
+        "longitude": 0.631858,
+        "altitude": null,
+        "values": {
+            "radiation": 64.73700000000001
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Lleida",
+        "weather": null,
+        "measurement_id": "9174111-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 143074,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.881389,
+        "longitude": 0.796778,
+        "altitude": null,
+        "values": {
+            "radiation": 40.989
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - L'Ametlla de Mar",
+        "weather": null,
+        "measurement_id": "143074-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 671670,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.744664,
+        "longitude": -3.029744,
+        "altitude": null,
+        "values": {
+            "radiation": 46.18
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Torija",
+        "weather": null,
+        "measurement_id": "671670-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 928703,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.99255,
+        "longitude": -3.929378,
+        "altitude": null,
+        "values": {
+            "radiation": 68.782
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Ciudad Real",
+        "weather": null,
+        "measurement_id": "928703-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 6906293,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.355581,
+        "longitude": -3.692486,
+        "altitude": null,
+        "values": {
+            "radiation": 26.362
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Burgos",
+        "weather": null,
+        "measurement_id": "6906293-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4859920,
+        "device": 5,
+        "user": 5,
+        "latitude": 35.29,
+        "longitude": -2.948333,
+        "altitude": null,
+        "values": {
+            "radiation": 74.512
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Melilla",
+        "weather": null,
+        "measurement_id": "4859920-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 1688884,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.9837,
+        "longitude": -5.606803,
+        "altitude": null,
+        "values": {
+            "radiation": 100.244
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Talayuela",
+        "weather": null,
+        "measurement_id": "1688884-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4735513,
+        "device": 5,
+        "user": 5,
+        "latitude": 36.728611,
+        "longitude": -4.430556,
+        "altitude": null,
+        "values": {
+            "radiation": 65.11999999999999
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - M\u00e1laga",
+        "weather": null,
+        "measurement_id": "4735513-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4593018,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.388611,
+        "longitude": -5.751944,
+        "altitude": null,
+        "values": {
+            "radiation": 116.243
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Bejar",
+        "weather": null,
+        "measurement_id": "4593018-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 45310,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.448014,
+        "longitude": -3.713792,
+        "altitude": null,
+        "values": {
+            "radiation": 81.577
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Madrid CSN",
+        "weather": null,
+        "measurement_id": "45310-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 969715,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.9733,
+        "longitude": -6.047608,
+        "altitude": null,
+        "values": {
+            "radiation": 69.68100000000001
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Malpartida de Plasencia",
+        "weather": null,
+        "measurement_id": "969715-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 239374,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.885514,
+        "longitude": -7.00935,
+        "altitude": null,
+        "values": {
+            "radiation": 55.467000000000006
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Badajoz",
+        "weather": null,
+        "measurement_id": "239374-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 742796,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.098628,
+        "longitude": -1.365042,
+        "altitude": null,
+        "values": {
+            "radiation": 75.964
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Alatoz",
+        "weather": null,
+        "measurement_id": "742796-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4593007,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.806111,
+        "longitude": -5.171111,
+        "altitude": null,
+        "values": {
+            "radiation": 106.34599999999999
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - El Puente del Arzobispo",
+        "weather": null,
+        "measurement_id": "4593007-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 622772,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.235758,
+        "longitude": -2.291706,
+        "altitude": null,
+        "values": {
+            "radiation": 46.731
+        },
+        "dateTime": "2025-02-11T10:50:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Villar de Domingo Garcia",
+        "weather": null,
+        "measurement_id": "622772-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 783083,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.286639,
+        "longitude": -1.466344,
+        "altitude": null,
+        "values": {
+            "radiation": 46.684000000000005
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Casas-Iba\u00f1ez",
+        "weather": null,
+        "measurement_id": "783083-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 7448365,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.124722,
+        "longitude": 0.135556,
+        "altitude": null,
+        "values": {
+            "radiation": 75.861
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Maella",
+        "weather": null,
+        "measurement_id": "7448365-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 16493442,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.787222,
+        "longitude": 0.804444,
+        "altitude": null,
+        "values": {
+            "radiation": 70.447
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Balaguer",
+        "weather": null,
+        "measurement_id": "16493442-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4261075,
+        "device": 5,
+        "user": 5,
+        "latitude": 36.522708,
+        "longitude": -6.280778,
+        "altitude": null,
+        "values": {
+            "radiation": 31.058
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - C\u00e1diz",
+        "weather": null,
+        "measurement_id": "4261075-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 783106,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.999822,
+        "longitude": -1.858444,
+        "altitude": null,
+        "values": {
+            "radiation": 89.904
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Albacete",
+        "weather": null,
+        "measurement_id": "783106-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 5587457,
+        "device": 5,
+        "user": 5,
+        "latitude": 43.346528,
+        "longitude": -8.414736,
+        "altitude": null,
+        "values": {
+            "radiation": 101.77799999999999
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - A Coru\u00f1a",
+        "weather": null,
+        "measurement_id": "5587457-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4735535,
+        "device": 5,
+        "user": 5,
+        "latitude": 37.202472,
+        "longitude": -3.605353,
+        "altitude": null,
+        "values": {
+            "radiation": 65.113
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Granada",
+        "weather": null,
+        "measurement_id": "4735535-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 928678,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.263936,
+        "longitude": -5.67615,
+        "altitude": null,
+        "values": {
+            "radiation": 76.949
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Azuaga",
+        "weather": null,
+        "measurement_id": "928678-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 1403388,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.952,
+        "longitude": -2.536272,
+        "altitude": null,
+        "values": {
+            "radiation": 41.952999999999996
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - El Bonillo",
+        "weather": null,
+        "measurement_id": "1403388-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 6942318,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.788931,
+        "longitude": -4.839183,
+        "altitude": null,
+        "values": {
+            "radiation": 86.337
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Guardo",
+        "weather": null,
+        "measurement_id": "6942318-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 45328,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.762778,
+        "longitude": -2.870278,
+        "altitude": null,
+        "values": {
+            "radiation": 27.566
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Brihuega",
+        "weather": null,
+        "measurement_id": "45328-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 783091,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.2702,
+        "longitude": -1.547711,
+        "altitude": null,
+        "values": {
+            "radiation": 48.763
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Fuentealbilla",
+        "weather": null,
+        "measurement_id": "783091-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 45757,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.242203,
+        "longitude": -0.939128,
+        "altitude": null,
+        "values": {
+            "radiation": 39.477
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Cortes de Pall\u00e1s",
+        "weather": null,
+        "measurement_id": "45757-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 1688873,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.130914,
+        "longitude": -5.66295,
+        "altitude": null,
+        "values": {
+            "radiation": 120.80000000000001
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Jarandilla de la Vera",
+        "weather": null,
+        "measurement_id": "1688873-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4016674,
+        "device": 5,
+        "user": 5,
+        "latitude": 37.401944,
+        "longitude": -1.592222,
+        "altitude": null,
+        "values": {
+            "radiation": 50.698
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - \u00c1guilas",
+        "weather": null,
+        "measurement_id": "4016674-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 6942325,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.192625,
+        "longitude": 2.194972,
+        "altitude": null,
+        "values": {
+            "radiation": 77.164
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Ripoll",
+        "weather": null,
+        "measurement_id": "6942325-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 969711,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.449683,
+        "longitude": -5.878958,
+        "altitude": null,
+        "values": {
+            "radiation": 94.932
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Trujillo",
+        "weather": null,
+        "measurement_id": "969711-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 742775,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.112519,
+        "longitude": -0.523456,
+        "altitude": null,
+        "values": {
+            "radiation": 40.224999999999994
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Alberic",
+        "weather": null,
+        "measurement_id": "742775-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 210480,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.462514,
+        "longitude": -2.461864,
+        "altitude": null,
+        "values": {
+            "radiation": 53.28
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Logro\u00f1o",
+        "weather": null,
+        "measurement_id": "210480-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 551694,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.448731,
+        "longitude": -2.309281,
+        "altitude": null,
+        "values": {
+            "radiation": 46.118
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Priego",
+        "weather": null,
+        "measurement_id": "551694-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 1403398,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.769506,
+        "longitude": -3.386736,
+        "altitude": null,
+        "values": {
+            "radiation": 55.455999999999996
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Valdepe\u00f1as",
+        "weather": null,
+        "measurement_id": "1403398-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 1842781,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.177283,
+        "longitude": 0.353431,
+        "altitude": null,
+        "values": {
+            "radiation": 43.001999999999995
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Pobla de Massaluca",
+        "weather": null,
+        "measurement_id": "1842781-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4261093,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.936222,
+        "longitude": -4.112119,
+        "altitude": null,
+        "values": {
+            "radiation": 98.18499999999999
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Segovia",
+        "weather": null,
+        "measurement_id": "4261093-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 928698,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.818894,
+        "longitude": -5.670836,
+        "altitude": null,
+        "values": {
+            "radiation": 100.502
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Almaraz",
+        "weather": null,
+        "measurement_id": "928698-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 206607,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.087592,
+        "longitude": -5.890281,
+        "altitude": null,
+        "values": {
+            "radiation": 47.523
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Juzbado",
+        "weather": null,
+        "measurement_id": "206607-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 45316,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.001511,
+        "longitude": -1.170772,
+        "altitude": null,
+        "values": {
+            "radiation": 43.693999999999996
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Murcia",
+        "weather": null,
+        "measurement_id": "45316-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 174132,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.781914,
+        "longitude": -2.622011,
+        "altitude": null,
+        "values": {
+            "radiation": 46.089
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Cifuentes",
+        "weather": null,
+        "measurement_id": "174132-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 708252,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.803653,
+        "longitude": -0.880231,
+        "altitude": null,
+        "values": {
+            "radiation": 62.459
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - La Font de la Figuera",
+        "weather": null,
+        "measurement_id": "708252-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 9174343,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.345556,
+        "longitude": -2.6375,
+        "altitude": null,
+        "values": {
+            "radiation": 49.436
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Villalba del Rey",
+        "weather": null,
+        "measurement_id": "9174343-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 45350,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.227885,
+        "longitude": -1.064603,
+        "altitude": null,
+        "values": {
+            "radiation": 41.001000000000005
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Cofrentes",
+        "weather": null,
+        "measurement_id": "45350-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 551679,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.004214,
+        "longitude": -3.002794,
+        "altitude": null,
+        "values": {
+            "radiation": 46.4
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Taranc\u00f3n",
+        "weather": null,
+        "measurement_id": "551679-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4016657,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.350947,
+        "longitude": -0.484664,
+        "altitude": null,
+        "values": {
+            "radiation": 46.796
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Alicante",
+        "weather": null,
+        "measurement_id": "4016657-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 45763,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.883664,
+        "longitude": -5.682908,
+        "altitude": null,
+        "values": {
+            "radiation": 118.325
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Casatejada",
+        "weather": null,
+        "measurement_id": "45763-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 708238,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.462581,
+        "longitude": -0.38875,
+        "altitude": null,
+        "values": {
+            "radiation": 50.387
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Valencia",
+        "weather": null,
+        "measurement_id": "708238-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 860969,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.615833,
+        "longitude": 0.220556,
+        "altitude": null,
+        "values": {
+            "radiation": 53.467
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Rosell",
+        "weather": null,
+        "measurement_id": "860969-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 206651,
+        "device": 5,
+        "user": 5,
+        "latitude": 43.490578,
+        "longitude": -3.800917,
+        "altitude": null,
+        "values": {
+            "radiation": 33.865
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Santander",
+        "weather": null,
+        "measurement_id": "206651-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 25063848,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.416856,
+        "longitude": 0.413767,
+        "altitude": null,
+        "values": {
+            "radiation": 48.095
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Benicarl\u00f3",
+        "weather": null,
+        "measurement_id": "25063848-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 8601015,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.350717,
+        "longitude": 2.157486,
+        "altitude": null,
+        "values": {
+            "radiation": 51.388999999999996
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Barcelona",
+        "weather": null,
+        "measurement_id": "8601015-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 969723,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.410183,
+        "longitude": -7.24665,
+        "altitude": null,
+        "values": {
+            "radiation": 131.353
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Valencia de Alc\u00e1ntara",
+        "weather": null,
+        "measurement_id": "969723-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4121085,
+        "device": 5,
+        "user": 5,
+        "latitude": 37.885278,
+        "longitude": -4.7875,
+        "altitude": null,
+        "values": {
+            "radiation": 46.389
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - C\u00f3rdoba",
+        "weather": null,
+        "measurement_id": "4121085-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4121062,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.487778,
+        "longitude": -3.349444,
+        "altitude": null,
+        "values": {
+            "radiation": 60.034
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Alcal\u00e1 de Henares",
+        "weather": null,
+        "measurement_id": "4121062-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4593013,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.598889,
+        "longitude": -6.527778,
+        "altitude": null,
+        "values": {
+            "radiation": 104.007
+        },
+        "dateTime": "2025-02-11T10:40:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Ciudad Rodrigo",
+        "weather": null,
+        "measurement_id": "4593013-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 1688896,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.827294,
+        "longitude": -6.144081,
+        "altitude": null,
+        "values": {
+            "radiation": 91.12
+        },
+        "dateTime": "2025-02-11T07:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Serradilla",
+        "weather": null,
+        "measurement_id": "1688896-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 8428865,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.973603,
+        "longitude": 2.826183,
+        "altitude": null,
+        "values": {
+            "radiation": 88.15
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Girona",
+        "weather": null,
+        "measurement_id": "8428865-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4121090,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.052928,
+        "longitude": -3.598972,
+        "altitude": null,
+        "values": {
+            "radiation": 86.006
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Aranjuez",
+        "weather": null,
+        "measurement_id": "4121090-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 9174091,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.366172,
+        "longitude": 0.913656,
+        "altitude": null,
+        "values": {
+            "radiation": 45.214
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Pobla del Cervoles",
+        "weather": null,
+        "measurement_id": "9174091-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4261080,
+        "device": 5,
+        "user": 5,
+        "latitude": 36.854314,
+        "longitude": -5.652589,
+        "altitude": null,
+        "values": {
+            "radiation": 33.63
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Villamart\u00edn",
+        "weather": null,
+        "measurement_id": "4261080-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4261085,
+        "device": 5,
+        "user": 5,
+        "latitude": 37.239342,
+        "longitude": -5.110833,
+        "altitude": null,
+        "values": {
+            "radiation": 40.128
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Osuna",
+        "weather": null,
+        "measurement_id": "4261085-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 143061,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.81455,
+        "longitude": 0.515894,
+        "altitude": null,
+        "values": {
+            "radiation": 46.555
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Tortosa",
+        "weather": null,
+        "measurement_id": "143061-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 26810408,
+        "device": 5,
+        "user": 5,
+        "latitude": 36.724444,
+        "longitude": -3.528611,
+        "altitude": null,
+        "values": {
+            "radiation": 59.478
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Motril",
+        "weather": null,
+        "measurement_id": "26810408-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 551705,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.570956,
+        "longitude": -2.07565,
+        "altitude": null,
+        "values": {
+            "radiation": 48.503
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Beteta",
+        "weather": null,
+        "measurement_id": "551705-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 174143,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.894597,
+        "longitude": -5.543792,
+        "altitude": null,
+        "values": {
+            "radiation": 130.827
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Navalmoral de la Mata",
+        "weather": null,
+        "measurement_id": "174143-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 969707,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.638739,
+        "longitude": -6.211969,
+        "altitude": null,
+        "values": {
+            "radiation": 70.354
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Monroy",
+        "weather": null,
+        "measurement_id": "969707-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 6942339,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.059469,
+        "longitude": -1.599667,
+        "altitude": null,
+        "values": {
+            "radiation": 53.343
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Tudela",
+        "weather": null,
+        "measurement_id": "6942339-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 204263,
+        "device": 5,
+        "user": 5,
+        "latitude": 43.353083,
+        "longitude": -5.874106,
+        "altitude": null,
+        "values": {
+            "radiation": 40.091
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Oviedo",
+        "weather": null,
+        "measurement_id": "204263-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 1688858,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.626031,
+        "longitude": -5.417139,
+        "altitude": null,
+        "values": {
+            "radiation": 81.58500000000001
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Casta\u00f1ar de Ibor",
+        "weather": null,
+        "measurement_id": "1688858-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 5587466,
+        "device": 5,
+        "user": 5,
+        "latitude": 43.563169,
+        "longitude": -7.261542,
+        "altitude": null,
+        "values": {
+            "radiation": 65.464
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Foz",
+        "weather": null,
+        "measurement_id": "5587466-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 1688878,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.058725,
+        "longitude": -5.749658,
+        "altitude": null,
+        "values": {
+            "radiation": 138.923
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Jara\u00edz de la Vera",
+        "weather": null,
+        "measurement_id": "1688878-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 8072083,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.127797,
+        "longitude": -0.425228,
+        "altitude": null,
+        "values": {
+            "radiation": 48.083
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Huesca",
+        "weather": null,
+        "measurement_id": "8072083-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 599718,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.066006,
+        "longitude": -2.648925,
+        "altitude": null,
+        "values": {
+            "radiation": 48.765
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Sig\u00fcenza",
+        "weather": null,
+        "measurement_id": "599718-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 239390,
+        "device": 5,
+        "user": 5,
+        "latitude": 37.400383,
+        "longitude": -6.009656,
+        "altitude": null,
+        "values": {
+            "radiation": 34.428
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Sevilla",
+        "weather": null,
+        "measurement_id": "239390-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 7949469,
+        "device": 5,
+        "user": 5,
+        "latitude": 43.269642,
+        "longitude": -2.929786,
+        "altitude": null,
+        "values": {
+            "radiation": 43.763000000000005
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Bilbao",
+        "weather": null,
+        "measurement_id": "7949469-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 1403393,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.474414,
+        "longitude": -5.648656,
+        "altitude": null,
+        "values": {
+            "radiation": 100.108
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Deleitosa",
+        "weather": null,
+        "measurement_id": "1403393-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 7613810,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.586372,
+        "longitude": -5.570033,
+        "altitude": null,
+        "values": {
+            "radiation": 70.742
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Le\u00f3n",
+        "weather": null,
+        "measurement_id": "7613810-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 6942332,
+        "device": 5,
+        "user": 5,
+        "latitude": 43.415836,
+        "longitude": -4.751211,
+        "altitude": null,
+        "values": {
+            "radiation": 32.277
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Llanes",
+        "weather": null,
+        "measurement_id": "6942332-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 969719,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.727556,
+        "longitude": -5.282539,
+        "altitude": null,
+        "values": {
+            "radiation": 81.812
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Valdelacasa de Tajo",
+        "weather": null,
+        "measurement_id": "969719-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 181999,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.765353,
+        "longitude": -2.478933,
+        "altitude": null,
+        "values": {
+            "radiation": 59.07599999999999
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Soria",
+        "weather": null,
+        "measurement_id": "181999-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4859956,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.049133,
+        "longitude": -8.643606,
+        "altitude": null,
+        "values": {
+            "radiation": 123.86500000000001
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Tui",
+        "weather": null,
+        "measurement_id": "4859956-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 6942347,
+        "device": 5,
+        "user": 5,
+        "latitude": 43.183331,
+        "longitude": -6.549247,
+        "altitude": null,
+        "values": {
+            "radiation": 117.48100000000001
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Cangas de Narcea",
+        "weather": null,
+        "measurement_id": "6942347-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 742785,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.221453,
+        "longitude": -0.517047,
+        "altitude": null,
+        "values": {
+            "radiation": 54.262
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Carlet",
+        "weather": null,
+        "measurement_id": "742785-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 8539520,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.726561,
+        "longitude": 1.815719,
+        "altitude": null,
+        "values": {
+            "radiation": 60.914
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Manresa",
+        "weather": null,
+        "measurement_id": "8539520-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 5423787,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.939628,
+        "longitude": -7.447772,
+        "altitude": null,
+        "values": {
+            "radiation": 123.366
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Ver\u00edn",
+        "weather": null,
+        "measurement_id": "5423787-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 45322,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.350394,
+        "longitude": -1.1242,
+        "altitude": null,
+        "values": {
+            "radiation": 44.426
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Teruel",
+        "weather": null,
+        "measurement_id": "45322-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 206616,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.949583,
+        "longitude": -5.669264,
+        "altitude": null,
+        "values": {
+            "radiation": 57.347
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Salamanca",
+        "weather": null,
+        "measurement_id": "206616-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 213340,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.249325,
+        "longitude": 0.735239,
+        "altitude": null,
+        "values": {
+            "radiation": 20.625999999999998
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Cabac\u00e9s",
+        "weather": null,
+        "measurement_id": "213340-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 708210,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.490183,
+        "longitude": -1.1069,
+        "altitude": null,
+        "values": {
+            "radiation": 74.061
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Requena",
+        "weather": null,
+        "measurement_id": "708210-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 7949485,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.854511,
+        "longitude": -2.698344,
+        "altitude": null,
+        "values": {
+            "radiation": 48.413
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Vitoria",
+        "weather": null,
+        "measurement_id": "7949485-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 282410,
+        "device": 5,
+        "user": 5,
+        "latitude": 37.777139,
+        "longitude": -3.808778,
+        "altitude": null,
+        "values": {
+            "radiation": 43.041000000000004
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Ja\u00e9n",
+        "weather": null,
+        "measurement_id": "282410-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 213333,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.078056,
+        "longitude": -5.416944,
+        "altitude": null,
+        "values": {
+            "radiation": 97.535
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - El Cabril",
+        "weather": null,
+        "measurement_id": "213333-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 364237,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.626425,
+        "longitude": -3.16835,
+        "altitude": null,
+        "values": {
+            "radiation": 62.329
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Guadalajara",
+        "weather": null,
+        "measurement_id": "364237-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 9174065,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.902844,
+        "longitude": 1.407272,
+        "altitude": null,
+        "values": {
+            "radiation": 18.878
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Ibiza",
+        "weather": null,
+        "measurement_id": "9174065-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 622762,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.840486,
+        "longitude": -1.873725,
+        "altitude": null,
+        "values": {
+            "radiation": 65.338
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Molina de Arag\u00f3n",
+        "weather": null,
+        "measurement_id": "622762-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 928683,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.167228,
+        "longitude": 0.978736,
+        "altitude": null,
+        "values": {
+            "radiation": 92.318
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Riudecols",
+        "weather": null,
+        "measurement_id": "928683-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 969743,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.914472,
+        "longitude": -6.334861,
+        "altitude": null,
+        "values": {
+            "radiation": 37.653
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - M\u00e9rida",
+        "weather": null,
+        "measurement_id": "969743-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 551671,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.483303,
+        "longitude": -2.734853,
+        "altitude": null,
+        "values": {
+            "radiation": 61.269
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Saced\u00f3n",
+        "weather": null,
+        "measurement_id": "551671-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 969738,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.161197,
+        "longitude": 1.102181,
+        "altitude": null,
+        "values": {
+            "radiation": 73.362
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Reus",
+        "weather": null,
+        "measurement_id": "969738-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 239397,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.884775,
+        "longitude": -4.045275,
+        "altitude": null,
+        "values": {
+            "radiation": 82.373
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Toledo",
+        "weather": null,
+        "measurement_id": "239397-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 7448374,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.976111,
+        "longitude": -0.449444,
+        "altitude": null,
+        "values": {
+            "radiation": 61.011
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Andorra",
+        "weather": null,
+        "measurement_id": "7448374-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 742761,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.363817,
+        "longitude": -0.465878,
+        "altitude": null,
+        "values": {
+            "radiation": 56.23800000000001
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Picassent",
+        "weather": null,
+        "measurement_id": "742761-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 928669,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.141906,
+        "longitude": 0.818583,
+        "altitude": null,
+        "values": {
+            "radiation": 75.37
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Falset",
+        "weather": null,
+        "measurement_id": "928669-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 5423782,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.012153,
+        "longitude": -4.524425,
+        "altitude": null,
+        "values": {
+            "radiation": 42.861000000000004
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Palencia",
+        "weather": null,
+        "measurement_id": "5423782-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 671701,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.473225,
+        "longitude": -0.915156,
+        "altitude": null,
+        "values": {
+            "radiation": 36.884
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Siete Aguas",
+        "weather": null,
+        "measurement_id": "671701-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 860987,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.056667,
+        "longitude": 0.440833,
+        "altitude": null,
+        "values": {
+            "radiation": 41.756
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Gandesa",
+        "weather": null,
+        "measurement_id": "860987-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 969754,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.125114,
+        "longitude": 1.235106,
+        "altitude": null,
+        "values": {
+            "radiation": 26.275
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Tarragona",
+        "weather": null,
+        "measurement_id": "969754-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4735546,
+        "device": 5,
+        "user": 5,
+        "latitude": 37.484722,
+        "longitude": -2.769167,
+        "altitude": null,
+        "values": {
+            "radiation": 51.195
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Baza",
+        "weather": null,
+        "measurement_id": "4735546-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 990367,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.438544,
+        "longitude": -8.609844,
+        "altitude": null,
+        "values": {
+            "radiation": 109.68799999999999
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Pontevedra",
+        "weather": null,
+        "measurement_id": "990367-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 433061,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.924444,
+        "longitude": -2.927392,
+        "altitude": null,
+        "values": {
+            "radiation": 50.0
+        },
+        "dateTime": "2024-10-30T08:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Jadraque",
+        "weather": null,
+        "measurement_id": "433061-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4261062,
+        "device": 5,
+        "user": 5,
+        "latitude": 37.889167,
+        "longitude": -6.557358,
+        "altitude": null,
+        "values": {
+            "radiation": 39.193
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Aracena",
+        "weather": null,
+        "measurement_id": "4261062-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 8027870,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.33315,
+        "longitude": -1.643172,
+        "altitude": null,
+        "values": {
+            "radiation": 85.877
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Calatayud",
+        "weather": null,
+        "measurement_id": "8027870-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 742780,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.975586,
+        "longitude": -0.689839,
+        "altitude": null,
+        "values": {
+            "radiation": 41.613
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Enguera",
+        "weather": null,
+        "measurement_id": "742780-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 1688868,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.128472,
+        "longitude": -5.468114,
+        "altitude": null,
+        "values": {
+            "radiation": 169.193
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Villanueva de la Vera",
+        "weather": null,
+        "measurement_id": "1688868-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 143090,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.088819,
+        "longitude": 0.641455,
+        "altitude": null,
+        "values": {
+            "radiation": 61.572
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Mora del Ebro",
+        "weather": null,
+        "measurement_id": "143090-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 26322898,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.824167,
+        "longitude": -3.160556,
+        "altitude": null,
+        "values": {
+            "radiation": 67.941
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Humanes",
+        "weather": null,
+        "measurement_id": "26322898-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 174116,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.70025,
+        "longitude": -2.590514,
+        "altitude": null,
+        "values": {
+            "radiation": 63.263
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Trillo",
+        "weather": null,
+        "measurement_id": "174116-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 9174076,
+        "device": 5,
+        "user": 5,
+        "latitude": 28.087425,
+        "longitude": -15.416461,
+        "altitude": null,
+        "values": {
+            "radiation": 54.288000000000004
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Las Palmas",
+        "weather": null,
+        "measurement_id": "9174076-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 783099,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.507628,
+        "longitude": -1.703883,
+        "altitude": null,
+        "values": {
+            "radiation": 50.583000000000006
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Hell\u00edn",
+        "weather": null,
+        "measurement_id": "783099-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 599713,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.762272,
+        "longitude": -2.199867,
+        "altitude": null,
+        "values": {
+            "radiation": 40.440999999999995
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Zaorejas",
+        "weather": null,
+        "measurement_id": "599713-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 239382,
+        "device": 5,
+        "user": 5,
+        "latitude": 37.278761,
+        "longitude": -6.911667,
+        "altitude": null,
+        "values": {
+            "radiation": 37.653
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Huelva",
+        "weather": null,
+        "measurement_id": "239382-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 1842759,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.29295,
+        "longitude": 1.260844,
+        "altitude": null,
+        "values": {
+            "radiation": 46.784
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Valls",
+        "weather": null,
+        "measurement_id": "1842759-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 9174071,
+        "device": 5,
+        "user": 5,
+        "latitude": 28.964672,
+        "longitude": -13.549106,
+        "altitude": null,
+        "values": {
+            "radiation": 41.183
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Arrecife",
+        "weather": null,
+        "measurement_id": "9174071-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 45769,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.099206,
+        "longitude": -0.694858,
+        "altitude": null,
+        "values": {
+            "radiation": 32.814
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Navarr\u00e9s",
+        "weather": null,
+        "measurement_id": "45769-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 9174096,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.013953,
+        "longitude": 0.186111,
+        "altitude": null,
+        "values": {
+            "radiation": 67.456
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Calaceite",
+        "weather": null,
+        "measurement_id": "9174096-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 622797,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.399989,
+        "longitude": -3.131081,
+        "altitude": null,
+        "values": {
+            "radiation": 47.553
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Campo de Criptana",
+        "weather": null,
+        "measurement_id": "622797-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 45343,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.060278,
+        "longitude": -1.06,
+        "altitude": null,
+        "values": {
+            "radiation": 36.814
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Ayora",
+        "weather": null,
+        "measurement_id": "45343-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4482930,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.964444,
+        "longitude": -4.825,
+        "altitude": null,
+        "values": {
+            "radiation": 122.157
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Talavera de la Reina",
+        "weather": null,
+        "measurement_id": "4482930-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 599738,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.166764,
+        "longitude": -2.421439,
+        "altitude": null,
+        "values": {
+            "radiation": 59.657000000000004
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Medinaceli",
+        "weather": null,
+        "measurement_id": "599738-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 7065368,
+        "device": 5,
+        "user": 5,
+        "latitude": 35.885278,
+        "longitude": -5.329444,
+        "altitude": null,
+        "values": {
+            "radiation": 52.572
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Ceuta",
+        "weather": null,
+        "measurement_id": "7065368-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 622803,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.418758,
+        "longitude": -2.923775,
+        "altitude": null,
+        "values": {
+            "radiation": 59.476
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Pastrana",
+        "weather": null,
+        "measurement_id": "622803-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4735507,
+        "device": 5,
+        "user": 5,
+        "latitude": 36.513247,
+        "longitude": -4.885989,
+        "altitude": null,
+        "values": {
+            "radiation": 50.608
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Marbella",
+        "weather": null,
+        "measurement_id": "4735507-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 282442,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.168647,
+        "longitude": -5.061914,
+        "altitude": null,
+        "values": {
+            "radiation": 78.694
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Herrera del Duque",
+        "weather": null,
+        "measurement_id": "282442-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 708229,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.974553,
+        "longitude": -0.1754,
+        "altitude": null,
+        "values": {
+            "radiation": 34.889
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Gand\u00eda",
+        "weather": null,
+        "measurement_id": "708229-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 860964,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.619167,
+        "longitude": 0.586211,
+        "altitude": null,
+        "values": {
+            "radiation": 38.692
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Sant Carles de la R\u00e1pita",
+        "weather": null,
+        "measurement_id": "860964-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 101172,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.554969,
+        "longitude": -2.649039,
+        "altitude": null,
+        "values": {
+            "radiation": 36.851
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Pareja",
+        "weather": null,
+        "measurement_id": "101172-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 210459,
+        "device": 5,
+        "user": 5,
+        "latitude": 43.306322,
+        "longitude": -2.040981,
+        "altitude": null,
+        "values": {
+            "radiation": 39.591
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - San Sebasti\u00e1n",
+        "weather": null,
+        "measurement_id": "210459-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 9174081,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.381361,
+        "longitude": 0.305675,
+        "altitude": null,
+        "values": {
+            "radiation": 56.312
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Mequinenza",
+        "weather": null,
+        "measurement_id": "9174081-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 9174086,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.569372,
+        "longitude": 0.522819,
+        "altitude": null,
+        "values": {
+            "radiation": 52.5
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Alcarras",
+        "weather": null,
+        "measurement_id": "9174086-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4016703,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.1175,
+        "longitude": -3.08,
+        "altitude": null,
+        "values": {
+            "radiation": 42.35
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Villacarrillo",
+        "weather": null,
+        "measurement_id": "4016703-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4121073,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.638333,
+        "longitude": -4.003611,
+        "altitude": null,
+        "values": {
+            "radiation": 76.689
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Collado Villalba",
+        "weather": null,
+        "measurement_id": "4121073-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 174149,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.563358,
+        "longitude": -5.739883,
+        "altitude": null,
+        "values": {
+            "radiation": 80.19800000000001
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Torrecillas de la Tiesa",
+        "weather": null,
+        "measurement_id": "174149-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 8072089,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.577156,
+        "longitude": -0.548725,
+        "altitude": null,
+        "values": {
+            "radiation": 60.019000000000005
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Jaca",
+        "weather": null,
+        "measurement_id": "8072089-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 282429,
+        "device": 5,
+        "user": 5,
+        "latitude": 36.010403,
+        "longitude": -5.607091,
+        "altitude": null,
+        "values": {
+            "radiation": 55.057
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Tarifa",
+        "weather": null,
+        "measurement_id": "282429-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4261100,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.657106,
+        "longitude": -4.680825,
+        "altitude": null,
+        "values": {
+            "radiation": 109.36999999999999
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - \u00c1vila",
+        "weather": null,
+        "measurement_id": "4261100-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 5423764,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.312136,
+        "longitude": -4.910828,
+        "altitude": null,
+        "values": {
+            "radiation": 82.033
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Medina del Campo",
+        "weather": null,
+        "measurement_id": "5423764-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 193215,
+        "device": 5,
+        "user": 5,
+        "latitude": 43.111044,
+        "longitude": -7.4571,
+        "altitude": null,
+        "values": {
+            "radiation": 56.522000000000006
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Lugo",
+        "weather": null,
+        "measurement_id": "193215-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 6906286,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.994794,
+        "longitude": -4.143378,
+        "altitude": null,
+        "values": {
+            "radiation": 63.4
+        },
+        "dateTime": "2024-07-15T07:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Reinosa",
+        "weather": null,
+        "measurement_id": "6906286-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 210469,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.791583,
+        "longitude": -3.27415,
+        "altitude": null,
+        "values": {
+            "radiation": 31.767999999999997
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Quintana Mart\u00edn Galindez",
+        "weather": null,
+        "measurement_id": "210469-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4121078,
+        "device": 5,
+        "user": 5,
+        "latitude": 37.476667,
+        "longitude": -4.431111,
+        "altitude": null,
+        "values": {
+            "radiation": 48.52
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Cabra",
+        "weather": null,
+        "measurement_id": "4121078-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 262135,
+        "device": 5,
+        "user": 5,
+        "latitude": 28.463533,
+        "longitude": -16.255903,
+        "altitude": null,
+        "values": {
+            "radiation": 47.655
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Tenerife",
+        "weather": null,
+        "measurement_id": "262135-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 742801,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.957594,
+        "longitude": -1.233019,
+        "altitude": null,
+        "values": {
+            "radiation": 54.048
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Alpera",
+        "weather": null,
+        "measurement_id": "742801-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 708218,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.566444,
+        "longitude": -1.208083,
+        "altitude": null,
+        "values": {
+            "radiation": 37.522
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Utiel",
+        "weather": null,
+        "measurement_id": "708218-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 100307,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.768945,
+        "longitude": -6.014167,
+        "altitude": null,
+        "values": {
+            "radiation": 47.22
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Torrejon el Rubio",
+        "weather": null,
+        "measurement_id": "100307-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 8027865,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.809408,
+        "longitude": -1.642847,
+        "altitude": null,
+        "values": {
+            "radiation": 42.653000000000006
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Pamplona",
+        "weather": null,
+        "measurement_id": "8027865-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 143084,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.078854,
+        "longitude": 1.049579,
+        "altitude": null,
+        "values": {
+            "radiation": 50.803000000000004
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Cambrils",
+        "weather": null,
+        "measurement_id": "143084-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 783063,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.861914,
+        "longitude": -1.088003,
+        "altitude": null,
+        "values": {
+            "radiation": 45.398
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Almansa",
+        "weather": null,
+        "measurement_id": "783063-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4859909,
+        "device": 5,
+        "user": 5,
+        "latitude": 39.419722,
+        "longitude": -0.788611,
+        "altitude": null,
+        "values": {
+            "radiation": 42.325
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Bu\u00f1ol",
+        "weather": null,
+        "measurement_id": "4859909-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 213345,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.633453,
+        "longitude": -0.882231,
+        "altitude": null,
+        "values": {
+            "radiation": 47.821000000000005
+        },
+        "dateTime": "2025-02-11T11:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Zaragoza",
+        "weather": null,
+        "measurement_id": "213345-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 599746,
+        "device": 5,
+        "user": 5,
+        "latitude": 41.049942,
+        "longitude": -2.202728,
+        "altitude": null,
+        "values": {
+            "radiation": 59.997
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Maranch\u00f3n",
+        "weather": null,
+        "measurement_id": "599746-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 5423770,
+        "device": 5,
+        "user": 5,
+        "latitude": 42.327375,
+        "longitude": -7.845233,
+        "altitude": null,
+        "values": {
+            "radiation": 130.28699999999998
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Orense",
+        "weather": null,
+        "measurement_id": "5423770-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 622787,
+        "device": 5,
+        "user": 5,
+        "latitude": 40.061256,
+        "longitude": -2.141122,
+        "altitude": null,
+        "values": {
+            "radiation": 38.745000000000005
+        },
+        "dateTime": "2025-02-11T11:00:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - Cuenca ",
+        "weather": null,
+        "measurement_id": "622787-a755-4fc4-a8c1-bb565d429ba3"
+    },
+    {
+        "id": 4016689,
+        "device": 5,
+        "user": 5,
+        "latitude": 38.276111,
+        "longitude": -3.608889,
+        "altitude": null,
+        "values": {
+            "radiation": 77.862
+        },
+        "dateTime": "2025-02-11T10:10:00Z",
+        "accuracy": null,
+        "unit": "nSv/h",
+        "notes": "Central - La Carolina",
+        "weather": null,
+        "measurement_id": "4016689-a755-4fc4-a8c1-bb565d429ba3"
+    }
+]
